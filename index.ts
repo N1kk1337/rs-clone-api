@@ -1,5 +1,6 @@
 import jsonServer from 'json-server';
 import db from './db.json'
+import fs from 'fs'
 
 const server = jsonServer.create();
 const router = jsonServer.router(db);
@@ -9,7 +10,6 @@ const PORT = 3004;
 
 server.use(middlewares);
 
-const fs = require('fs');
 server.use((req, res, next) => {
     const log = `${new Date().toISOString()} ${req.method} ${req.url}`;
     // что ещё писать в логи?

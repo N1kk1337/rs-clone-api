@@ -13,7 +13,7 @@
             "avatarImg":"https://static.wikia.nocookie.net/pirates/images/d/d8/Jacksparrow.jpg/revision/latest?cb=20170628210052&path-prefix=ru",
             "likeCats":false, 
             "likeDogs":true, 
-            "favoriteFilm":"Avengers"  
+            "favoriteFilm":"Avengers"
         },
         {
             "id":2,
@@ -28,7 +28,7 @@
             "avatarImg":"https://s8.vcdn.biz/static/f/1697611751/image.jpg/pt/r0x284x4",
             "likeCats":false, 
             "likeDogs":true, 
-            "favoriteFilm":"Titanic"  
+            "favoriteFilm":"Titanic"
         },
         {
             "id":3,
@@ -43,7 +43,20 @@
             "avatarImg":"https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220615162812-02-barbie-movie-gosling.jpg",
             "likeCats":false, 
             "likeDogs":true, 
-            "favoriteFilm":"Home Alone"  
+            "favoriteFilm":"Home Alone"
+        }
+    ],
+    "posts": [
+        {
+            "id":1,
+            "userId":1,
+            "time":"2012-04-23T18:25:43.511Z",
+            "text":"it is CAPTAIN Jack Sparrow"
+        },
+        {   "id":"2",
+            "userId":1,
+            "time":"2013-04-23T18:25:43.511Z",
+            "text":"it is CAPTAIN Jack Sparrow"
         }
     ]
 }
