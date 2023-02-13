@@ -44,7 +44,118 @@
             "likeCats":false, 
             "likeDogs":true, 
             "favoriteFilm":"Home Alone"
+        },
+        {
+            "id":4,
+            "email": "JaneDoe@gmail.com",
+            "password":"123456",
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "nickName": "",
+            "location": "",
+            "country":"England",
+            "city": "London",
+            "avatarImg":"https://s8.vcdn.biz/static/f/1697611751/image.jpg/pt/r0x284x4",
+            "likeCats":false, 
+            "likeDogs":true, 
+            "favoriteFilm":"Titanic"
+        },
+        {
+            "id":5,
+            "email": "JaneDoe@gmail.com",
+            "password":"123456",
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "nickName": "",
+            "location": "",
+            "country":"England",
+            "city": "London",
+            "avatarImg":"https://s8.vcdn.biz/static/f/1697611751/image.jpg/pt/r0x284x4",
+            "likeCats":false, 
+            "likeDogs":true, 
+            "favoriteFilm":"Titanic"
+        },
+        
+        {
+            "id":6,
+            "email": "JaneDoe@gmail.com",
+            "password":"123456",
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "nickName": "",
+            "location": "",
+            "country":"England",
+            "city": "London",
+            "avatarImg":"https://s8.vcdn.biz/static/f/1697611751/image.jpg/pt/r0x284x4",
+            "likeCats":false, 
+            "likeDogs":true, 
+            "favoriteFilm":"Titanic"
+        },
+        
+        {
+            "id":7,
+            "email": "JaneDoe@gmail.com",
+            "password":"123456",
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "nickName": "",
+            "location": "",
+            "country":"England",
+            "city": "London",
+            "avatarImg":"https://s8.vcdn.biz/static/f/1697611751/image.jpg/pt/r0x284x4",
+            "likeCats":false, 
+            "likeDogs":true, 
+            "favoriteFilm":"Titanic"
+        },
+        
+        {
+            "id":8,
+            "email": "JaneDoe@gmail.com",
+            "password":"123456",
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "nickName": "",
+            "location": "",
+            "country":"England",
+            "city": "London",
+            "avatarImg":"https://s8.vcdn.biz/static/f/1697611751/image.jpg/pt/r0x284x4",
+            "likeCats":false, 
+            "likeDogs":true, 
+            "favoriteFilm":"Titanic"
+        },
+        
+        {
+            "id":9,
+            "email": "JaneDoe@gmail.com",
+            "password":"123456",
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "nickName": "",
+            "location": "",
+            "country":"England",
+            "city": "London",
+            "avatarImg":"https://s8.vcdn.biz/static/f/1697611751/image.jpg/pt/r0x284x4",
+            "likeCats":false, 
+            "likeDogs":true, 
+            "favoriteFilm":"Titanic"
+        },
+        
+        {
+            "id":10,
+            "email": "JaneDoe@gmail.com",
+            "password":"123456",
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "nickName": "",
+            "location": "",
+            "country":"England",
+            "city": "London",
+            "avatarImg":"https://s8.vcdn.biz/static/f/1697611751/image.jpg/pt/r0x284x4",
+            "likeCats":false, 
+            "likeDogs":true, 
+            "favoriteFilm":"Titanic"
         }
+
     ],
     "posts": [
         {
