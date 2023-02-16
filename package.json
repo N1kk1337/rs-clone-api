@@ -2,10 +2,10 @@
   "name": "rs-clone-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node index.ts --routes routes.json"
+    "start": "json-server --routes routes.json --watch db.json --port 3004"
   },
   "repository": {
     "type": "git",
